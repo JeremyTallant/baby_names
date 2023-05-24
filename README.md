@@ -6,7 +6,7 @@ The ranking, grouping, joining, ordering, and pattern matching skills we'll use 
 ## Contents
 1. **Classic American names:** Find names that have been given to over 5,000 babies of either sex every year for the 101 years from 1920 through 2020.
 2. **Timeless or trendy?:** Classify each name's popularity according to the number of years that the name appears in the dataset.
-3. **Top-ranked female names since 1920:**
+3. **Top-ranked female names since 1920:** Let's take a look at the ten highest-ranked American female names in our dataset.
 4. **Picking a baby name:**
 5. **The Olivia expansion:**
 6. **Many males with the same name:**
