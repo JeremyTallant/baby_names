@@ -5,7 +5,7 @@ What makes a name timeless or trendy? In this project, we'll use data published 
 The ranking, grouping, joining, ordering, and pattern matching skills we'll use in this project are broadly applicable: understanding changing tastes is a key competency for businesses as well as parents searching for a baby name!
 ## Contents
 1. **Classic American names:** Find names that have been given to over 5,000 babies of either sex every year for the 101 years from 1920 through 2020.
-2. **Timeless or trendy?:**
+2. **Timeless or trendy?:** Classify each name's popularity according to the number of years that the name appears in the dataset.
 3. **Top-ranked female names since 1920:**
 4. **Picking a baby name:**
 5. **The Olivia expansion:**
