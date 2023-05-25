@@ -9,6 +9,6 @@ The ranking, grouping, joining, ordering, and pattern matching skills we'll use 
 3. **Top-ranked female names since 1920:** Let's take a look at the ten highest-ranked American female names in our dataset.
 4. **Picking a baby name:** Return a list of first names which meet this friend's baby name criteria.
 5. **The Olivia expansion:** Find the cumulative number of babies named Olivia over the years since the name first appeared in our dataset.
-6. **Many males with the same name:**
+6. **Many males with the same name:** Write a query that selects the `year` and the maximum `num` of babies given any male name in that year.
 7. **Top male names over the years:**
 8. **The most years at number one:**
