@@ -11,4 +11,4 @@ The ranking, grouping, joining, ordering, and pattern matching skills we'll use 
 5. **The Olivia expansion:** Find the cumulative number of babies named Olivia over the years since the name first appeared in our dataset.
 6. **Many males with the same name:** Write a query that selects the `year` and the maximum `num` of babies given any male name in that year.
 7. **Top male names over the years:** Look up the `first_name` that corresponds to the maximum number of babies given a specific male name in a year.
-8. **The most years at number one:**
+8. **The most years at number one:** Return a list of first names that have been the top male first name in any year along with a count of the number of years that name has been the top name.
